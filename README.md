@@ -5,15 +5,16 @@
 </div>
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxyGabys)](https://github.com/FoxyGabys/FoxyGabys) -->
 </br>
-<div align="center">
+<div>
   <div align="center">
   <a href="https://github.com/FoxyGabys">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FoxyGabys&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxyGabys&layout=compact&langs_count=7&theme=dark"/>
-</div>
+    </div>
+<!-- </br> -->
+<!--   <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FoxyGabys&layout=compact&langs_count=7&theme=dark"/>
+</div> -->
 </div>
 </br>
  <div align="center">
