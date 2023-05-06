@@ -3,6 +3,7 @@
 <div align="center">
 <h2> Seja, bem vindo!</h2>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoxyGabys)](https://github.com/FoxyGabys/FoxyGabys)
 </br>
 <div align="center">
   <div align="center">
