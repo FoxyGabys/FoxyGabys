@@ -1,5 +1,9 @@
-### Hi there 👋
+### Olá! Eu sou Gabrielly Nataly 👋
 
+
+
+
+![Snake animation](https://github.com/FoxyGabys/FoxyGabys/blob/output/github-contribution-grid-snake.svg)
 <!--
 **FoxyGabys/FoxyGabys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
